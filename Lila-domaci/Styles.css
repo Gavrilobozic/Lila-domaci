@@ -113,6 +113,7 @@ nav #dugmence a{
 	background-image: url(http://pharaohlab.com/lila/demo/assets/img/bg/intro1.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 	overflow: none;
 	z-index: -1;
 	width: 100%;
@@ -377,6 +378,7 @@ transition: all 0.4s ease-in-out;
 	background-image: url(http://pharaohlab.com/lila/demo/assets/img/bg/bg2.png);
 	background-repeat: no-repeat;
 	background-size: cover; 
+	background-attachment: fixed;
 	text-align: center;
 }
 #uze-odbrojavanje {
